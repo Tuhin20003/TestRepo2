@@ -1,2 +1,2 @@
-console.log("File 6 change in feature/TEC-001");
-//change in feature/TEC-001
+console.log("File 6 change in feature/TEC-0002");
+//change in feature/TEC-0002
